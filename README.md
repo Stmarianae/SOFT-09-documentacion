@@ -1,2 +1,2 @@
 # SOFT-09-documentacion
-Trabajo1
+Laboratorio 1 
